@@ -33,7 +33,7 @@
 .nav-menu{
     font-family: 'Montserrat';
     text-decoration: dashed;
-    color: black;
+    /* color: black; */
     font-weight: 500;
     margin-left: 40px;
     color: white;
@@ -76,7 +76,7 @@
 }
 .b2{
     /* background-color: #28282B; */
-    background-color: #0E1525;
+    /* background-color: #0E1525; */
 }
 .c2{
     display: flex;
@@ -103,10 +103,10 @@
     border-radius: 4px;
     padding-left: 60px;
     padding: 30px;
-    color: white;
+    /* color: white; */
     box-shadow: 0 0 20px 0 rgb(0, 0, 0);
-    border-left: 5px solid rgb(255, 255, 255);
-    background-color: #28282B;
+    border-left: 5px solid #28282B;
+    /* background-color: #28282B; */
     /* margin: auto; */
 }
 .c2-1-1{
@@ -121,10 +121,10 @@
     /* border-top: 1px solid gray;
     border-right: 1px solid gray;
     border-bottom: 1px solid gray; */
-    color: white;
+    /* color: white; */
     box-shadow: 0 0 20px 0 rgb(0, 0, 0);
-    border-left: 5px solid rgb(255, 255, 255);
-    background-color: #28282B;
+    border-left: 5px solid #28282B;
+    /* background-color: #28282B; */
    
     border-radius: 4px;
 
@@ -159,10 +159,10 @@
 }
 .c3-exp1{
     border: 0 solid white;
-    color: white;
+    /* color: white; */
     box-shadow: 0 0 20px 0 rgb(0, 0, 0);
-    border-left: 5px solid rgb(255, 255, 255);
-    background-color: #28282B;
+    border-left: 5px solid #28282B;
+    /* background-color: #28282B; */
     border-radius: 6px;
 }
 .c3-exp{
