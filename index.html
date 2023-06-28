@@ -118,13 +118,23 @@
     <section class="c5" id="contact">
         <div class="form-1">
             <h3 class="form-head">Contact</h3>
-            <form action="demo.php">
-                <input type="text" name="name" id="name" placeholder="Enter your name" class="form-input"><br>
-                <input type="email" name="email" id="email" placeholder="Enter your E-mail" class="form-input"><br>
-                <textarea name="textarea" id="" cols="30" rows="10" class="form-area" placeholder="Your Query"></textarea><br>
-                <input type="button" value="Submit" class="submit-btn">
 
-            </form>
+            <form action="submit_form.php" method="post">
+                <label for="name" hidden>Name:</label>
+                <input type="text" id="name" name="name" placeholder="Enter your name" class="form-input" required><br>
+              
+                <label for="email" hidden>Email:</label>
+                <input type="email" id="email" name="email" placeholder="Enter your E-mail" class="form-input"  required><br>
+              
+                <label for="subject" hidden>Subject:</label>
+                <input type="text" id="subject" name="subject" class="form-input" placeholder="Subject"  required><br>
+              
+                <label for="message" hidden>Message:</label>
+                <textarea id="message" name="message"  cols="30" rows="10"  class="form-area" required placeholder="Your Query"></textarea><br>
+              
+                <input type="submit" value="Submit"  class="submit-btn">
+              </form>
+              
         </div>
     </section>
     
