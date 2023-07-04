@@ -1,1 +1,1 @@
-[Resume Link](https://my-resume-vipin.netlify.app/)
+[Resume](https://my-resume-vipin.netlify.app/)
