@@ -1,1 +1,1 @@
-https://my-resume-vipin.netlify.app/
+https://my-resume-vipin.netlify.app/{:target="_blank" rel="noopener"}
