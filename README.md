@@ -1,1 +1,1 @@
-<a href="www.google.com" target="_blank">Hello</a>
+<a href="https://my-resume-vipin.netlify.app/" target="_blank">Hello</a>
