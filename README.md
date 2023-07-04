@@ -1,1 +1,1 @@
-<a href="https://my-resume-vipin.netlify.app/" target="_blank">Hello</a>
+[Resume Link](https://my-resume-vipin.netlify.app/)
