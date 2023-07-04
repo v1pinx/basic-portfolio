@@ -1,1 +1,1 @@
-[go](https://my-resume-vipin.netlify.app/){:target="_blank" rel="noopener"}
+<a href="www.google.com" target="_blank">Hello</a>
